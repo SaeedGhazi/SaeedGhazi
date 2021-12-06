@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaeedGhazi
-- 👀 I’m interested in IoT , Machine Learning and Smart home
+- 👀 I’m interested in IoT, Machine Learning and Smart Farming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Raspberry+Python
 - 📫 How to reach me : 
